@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "bmewburn.vscode-intelephense-client",
+    "jakebecker.elixir-ls",
+    "eamodio.gitlens",
+    "pantajoe.vscode-elixir-credo"
+  ]
+}
